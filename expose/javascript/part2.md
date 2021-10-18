@@ -33,3 +33,8 @@ E. false  This is because true and the integer 2 are not mapped to the same valu
 F. true  This is because Boolean(2) got mapped to true and it was the same data type as true.
 15. == converts variables before comparing and === does not convert before comparing.
 17. The result of the function will be that the array [2, 4, 6] is returned. A function was passed as a paramter and is called within a function. In line 4, the function doSomething is called to add elements to the array.
+19.
+1
+4
+3
+2
